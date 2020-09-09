@@ -13,7 +13,7 @@ import jade.core.behaviours.Behaviour;
 public class Comportamiento extends Behaviour {
     int i=0;
     public void action(){
-        System.out.printf("%d\n", i);
+        System.out.println(i);
         i++;
     }
             
