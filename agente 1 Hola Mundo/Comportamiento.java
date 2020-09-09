@@ -14,7 +14,7 @@ import jade.core.behaviours.Behaviour;
 public class Comportamiento extends Behaviour {
 
     public void action() {
-        System.out.println("Hola mundito");
+        System.out.println("Hola mundo");
     }
 
     public boolean done() {
